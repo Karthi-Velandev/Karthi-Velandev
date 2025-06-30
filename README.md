@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 About Me
 
-<!--
-**Karthi-Velandev/Karthi-Velandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Hi there! I’m Karthikeyan, a passionate first-year B.Tech student majoring in Artificial Intelligence and Data Science.
 
-Here are some ideas to get you started:
+#### I’m interested to explore the world of tech, especially in areas like Python programming, machine learning, and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm currently building a my foundation in:
+
+   ##### 💻 Python, C Programming
+
+   ##### 🖱️ UI/UX Design 
+
+   ##### 🧠 Basics of AI & Machine Learning
+
+   ##### 🌐 Web Development (HTML, CSS, JavaScript)
+
+
+#### That's all about me. Thank you very much.
