@@ -5,7 +5,7 @@
 ### 🚀 I’m interested in exploring the world of tech, especially in areas like **Python programming**, **Machine Learning**, and **Data Science**.  
 
 
-### 🧠 I'm currently building my foundation in:
+#### 🧠 I'm currently building my foundation in:
 
 #### - 💻 Python, C Programming  
 #### - 🖱️ UI/UX Design  
@@ -16,12 +16,12 @@
 
 ---
 
-## 🔗 Connect with Me
-### - 🌐 Portfolio:
+### 🔗 Connect with Me
+- 🌐 Portfolio:
 (https://karthi-aids.github.io/MyPortFolio/)
-### - 💼 LinkedIn: (https://www.linkedin.com/in/karthi-keyan-d-703b83327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-### - 📧 Email: duraikarthikeyan16@gmail.com (personal)
-###- 📧 Email: DuraiKarthi@velandev.in (organisation)
+- 💼 LinkedIn: (https://www.linkedin.com/in/karthi-keyan-d-703b83327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: duraikarthikeyan16@gmail.com (personal)
+- 📧 Email: DuraiKarthi@velandev.in (organisation)
 
 ---
 
