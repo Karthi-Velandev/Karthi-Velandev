@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Karthikeyan
 
-### 🎓 I’m a passionate first-year **B.Tech student in Artificial Intelligence and Data Science (AI&DS)**  
+### 🎓 I’m a passionate second-year **B.Tech student in Artificial Intelligence and Data Science (AI&DS)**  
 
 ### 🚀 I’m interested in exploring the world of tech, especially in areas like **Python programming**, **Machine Learning**, and **Data Science**.  
 
